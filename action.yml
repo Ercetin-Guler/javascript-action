@@ -1,4 +1,4 @@
-    name : 'Tutuklamak'
+    name : 'Tutuklamak' Use this template to bootstrap the creation of a JavaScript action.🚀
 description: 'Wait a designated number of milliseconds'
 inputs:
   milliseconds:  # id of input
