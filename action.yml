@@ -1,4 +1,4 @@
-  name: 'Hold'  Bir JavaScript eyleminin oluşturulmasını başlatmak için bu şablonu kullanın.🚀
+  name: 'JavaScript Action Tutmak'Bir JavaScript eyleminin oluşturulmasını başlatmak için bu şablonu kullanın.🚀
 description: 'Wait a designated number of milliseconds'
 inputs:
   milliseconds:  # id of input
